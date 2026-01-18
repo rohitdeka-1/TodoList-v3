@@ -34,7 +34,7 @@ const App = () => {
   return (
     <div className="bg-gradient-to-br from-black via-[#0f172a] to-[#1e293b] min-h-screen text-white px-6 py-12 font-mono">
       <h1 className="text-5xl font-bold text-center text-cyan-400 mb-10 drop-shadow-md">
-        TodoList
+        Hello Everyone!
       </h1>
 
       <form
